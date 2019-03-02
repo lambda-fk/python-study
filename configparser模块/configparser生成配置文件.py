@@ -45,6 +45,6 @@ print('开始生成配置文件 sample.ini...')
 with open('sample.ini','w') as configfile:
     config.write(configfile)
 
-print('生成完毕')
+print('生成完毕。')
 
 
